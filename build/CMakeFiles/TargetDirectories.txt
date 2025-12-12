@@ -1,0 +1,9 @@
+/root/Alse/Alse-proyecto-final/build/CMakeFiles/IoTConfigManager.dir
+/root/Alse/Alse-proyecto-final/build/CMakeFiles/edit_cache.dir
+/root/Alse/Alse-proyecto-final/build/CMakeFiles/rebuild_cache.dir
+/root/Alse/Alse-proyecto-final/build/CMakeFiles/list_install_components.dir
+/root/Alse/Alse-proyecto-final/build/CMakeFiles/install.dir
+/root/Alse/Alse-proyecto-final/build/CMakeFiles/install/local.dir
+/root/Alse/Alse-proyecto-final/build/CMakeFiles/install/strip.dir
+/root/Alse/Alse-proyecto-final/build/CMakeFiles/IoTConfigManager_autogen_timestamp_deps.dir
+/root/Alse/Alse-proyecto-final/build/CMakeFiles/IoTConfigManager_autogen.dir
